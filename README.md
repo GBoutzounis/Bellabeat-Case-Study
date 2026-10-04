@@ -14,7 +14,7 @@ Bellabeat is a pioneering wellness company that designs high-tech, health-focuse
 ## Tools & Methodology
 The entire data cleaning and manipulation process was conducted in Excel, while Tableau was utilized to create some of the final data visualizations.
 
-### Data Cleaning
+## Data Cleaning
 Merged raw activity files into a single `Activity_Merged_Spreadsheet` and standardized all dates into a DD/MM/YY format. Checked for and removed 24 duplicate log entries based on ID and ActivityDate. Filtered out invalid tracking days to avoid skewing averages:
 *   Removed days with 0 steps (138 rows removed).
 *   Removed days with exactly 1,440 sedentary minutes, indicating the device was sitting on a nightstand for 24 hours (17 rows removed).
@@ -22,7 +22,7 @@ Merged raw activity files into a single `Activity_Merged_Spreadsheet` and standa
 *   Removed days with fewer than 600 total wear minutes (24 rows removed).
 *   Removed days with fewer than 200 total steps (24 rows removed).
 
-### Data Engineering
+## Data Engineering
 New custom variables were calculated in Excel to better analyze user habits:
 *   **TotalWearMinutes:** Calculated as the sum of Very Active, Fairly Active, Lightly Active, and Sedentary minutes.
 *   **TotalActivityMinutes:** Calculated as the sum of Very Active, Fairly Active, and Lightly Active minutes.
