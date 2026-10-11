@@ -38,8 +38,6 @@ New custom variables were calculated in Excel to better analyze user habits:
 
 ## Key Insights
 
-*(Note: To view the full Tableau visualizations supporting these insights, please refer to the **`Bellabeat_Case_Study.pdf`** presentation included in this repository.)*
-
 *   **Activity Level Breakdown (Calories & Minutes):** Moving more directly leads to burning more calories, with a significant jump when users reach the highest activity level. Sedentary days average about 1,900 calories burned and under 150 active minutes, while Highly Active days average over 2,700 calories burned and more than 300 active minutes.
   <br>
   <img src="Calories & Minutes by Activity Level.png" width="700">
