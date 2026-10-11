@@ -38,20 +38,24 @@ New custom variables were calculated in Excel to better analyze user habits:
 
 ## Key Insights
 
-*   **Activity Level Breakdown (Calories & Minutes):** Moving more directly leads to burning more calories, with a significant jump when users reach the highest activity level. Sedentary days average about 1,900 calories burned and under 150 active minutes, while Highly Active days average over 2,700 calories burned and more than 300 active minutes.
-  <br>
+* **Activity Level Breakdown (Calories & Minutes):** Moving more directly leads to burning more calories, with a significant jump when users reach the highest activity level. Sedentary days average about 1,900 calories burned and under 150 active minutes, while Highly Active days average over 2,700 calories burned and more than 300 active minutes.
+
   <img src="Calories & Minutes by Activity Level.png" width="700">
-*   **All-or-Nothing Activity Distribution:** Users are mostly either very active or not active at all, with very few "average" days in between. "Highly Active" is the most common daily level, making up 36% of all tracked days, followed by "Sedentary" days at 26%.
-  <br>
+
+* **All-or-Nothing Activity Distribution:** Users are mostly either very active or not active at all, with very few "average" days in between. "Highly Active" is the most common daily level, making up 36% of all tracked days, followed by "Sedentary" days at 26%.
+
   <img src="User Distribution.png" width="700">
-*   **Consistent Daily Output (Weekend vs. Weekday):** Users have the same activity habits every day, proving they do not just save their workouts for the weekends. Average step counts stay very steady (about 8,400 on weekdays and 8,300 on weekends), and total active time stays right around 250 minutes no matter the day.
-  <br>
+
+* **Consistent Daily Output (Weekend vs. Weekday):** Users have the same activity habits every day, proving they do not just save their workouts for the weekends. Average step counts stay very steady (about 8,400 on weekdays and 8,300 on weekends), and total active time stays right around 250 minutes no matter the day.
+
   <img src="Weekend vs Weekday.png" width="700">
-*   **The 10,000 Step Tipping Point:** The data shows a clear positive correlation where taking more steps and staying active longer burns more calories. Reaching the "Highly Active" level (over 10,000 steps) reliably pushes burned calories well above 2,500 for the day.
-  <br>
+
+* **The 10,000 Step Tipping Point:** The data shows a clear positive correlation where taking more steps and staying active longer burns more calories. Reaching the "Highly Active" level (over 10,000 steps) reliably pushes burned calories well above 2,500 for the day.
+
   <img src="Daily Steps & Calorie Burn Across Activity Level.png" width="700">
-*   **Mid-Week Peaks & Weekend Slumps:** Users are most active in the middle of the week, with Highly Active days peaking at 66 on Wednesdays. Motivation drops at the end of the week, with completely Sedentary days spiking on Fridays (51 days) and reaching a high of 57 days on Sundays.
-  <br>
+
+* **Mid-Week Peaks & Weekend Slumps:** Users are most active in the middle of the week, with Highly Active days peaking at 66 on Wednesdays. Motivation drops at the end of the week, with completely Sedentary days spiking on Fridays (51 days) and reaching a high of 57 days on Sundays.
+
   <img src="Weekly Activity Level Heatmap.png" width="700">
 
 ## Marketing Recommendations
